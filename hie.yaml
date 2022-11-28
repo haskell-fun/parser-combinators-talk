@@ -1,0 +1,14 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parser-combinators-talk:lib"
+
+    - path: "./app/Main.hs"
+      component: "parser-combinators-talk:exe:parser-combinators-talk-exe"
+
+    - path: "./app/Paths_parser-combinators-talk.hs"
+      component: "parser-combinators-talk:exe:parser-combinators-talk-exe"
+
+    - path: "./test"
+      component: "parser-combinators-talk:test:parser-combinators-talk-test"
+
