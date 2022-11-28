@@ -1,3 +1,5 @@
+[![CI](https://github.com/haskell-fun/parser-combinators-talk/actions/workflows/ci.yml/badge.svg)](https://github.com/haskell-fun/parser-combinators-talk/actions/workflows/ci.yml)
+
 # parser-combinators-talk
 
 ## How to build and run locally
